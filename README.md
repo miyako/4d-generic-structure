@@ -1,6 +1,6 @@
 # 4d-generic-structure
 
-a structure with 255 tables, 511 text fields each
+a structure with `255` tables, `511` text fields each
 
 ## about
 
